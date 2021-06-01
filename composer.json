@@ -1,0 +1,12 @@
+{
+    "name": "artem/mytest",
+    "authors": [
+        {
+            "name": "Artem Gunar",
+            "email": "artem@firebearstudio.com"
+        }
+    ],
+    "require": {
+		"php": "7.2.34"
+	}
+}
